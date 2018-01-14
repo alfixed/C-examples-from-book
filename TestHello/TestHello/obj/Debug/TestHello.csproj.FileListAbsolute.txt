@@ -1,0 +1,7 @@
+D:\C# Library\2018\TestHello\TestHello\bin\Debug\TestHello.exe.config
+D:\C# Library\2018\TestHello\TestHello\bin\Debug\TestHello.exe
+D:\C# Library\2018\TestHello\TestHello\bin\Debug\TestHello.pdb
+D:\C# Library\2018\TestHello\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache
+D:\C# Library\2018\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+D:\C# Library\2018\TestHello\TestHello\obj\Debug\TestHello.exe
+D:\C# Library\2018\TestHello\TestHello\obj\Debug\TestHello.pdb
